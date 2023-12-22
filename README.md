@@ -1,3 +1,5 @@
+![Итог проекта на момент 22.12.2023]([https://www.example.com/image.jpg](https://cdn.discordapp.com/attachments/888178520981909555/1187869237293883392/1.png?ex=6598746f&is=6585ff6f&hm=9d4cd20be2969dc74e000989f4bf6fd151afff824f98e233472a13bfb291ea46&))
+
 # Название проекта: Отображение музыкальной активности SoundCloud в Discord с использованием Discord RPC
 
 ## Описание проекта:
