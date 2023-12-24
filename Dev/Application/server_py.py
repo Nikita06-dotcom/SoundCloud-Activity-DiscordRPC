@@ -36,7 +36,7 @@ def send_data():
         print("Ссылка на обложку:", current_image_url)
         print("Ссылка на трек:", current_track_url)
         print("Статус воспроизведения:", is_playing)
-        # Отправка данных на клиент
+        # Здесь вы можете добавить отправку данных на ваш клиент
 
         button = [{
             "label": "Слушать",
@@ -46,14 +46,14 @@ def send_data():
         if is_playing:
             RPC.update(start=time.time(),
                        buttons= button,
-                       state=current_artist,
-                       details=current_track_name,
+                       state=current_artist + 'ㅤ',
+                       details=current_track_name+ 'ㅤ',
                        large_image=current_image_url,
                        large_text=f"{current_artist} — {current_track_name}")
         else:
-            RPC.update(state=current_artist,
+            RPC.update(state=current_artist+ 'ㅤ',
                        buttons=button,
-                       details=current_track_name,
+                       details=current_track_name+ 'ㅤ',
                        large_image=current_image_url,
                        large_text="Пауза")
 
