@@ -1,3 +1,5 @@
+[//]: # (Сайт для форматирования: https://dillinger.io/ и https://gist.github.com/Jekins/2bf2d0638163f1294637)
+
 ![Итог проекта на момент 22.12.2023](https://cdn.discordapp.com/attachments/888178520981909555/1187869237293883392/1.png)
 ###### Промежуточный итог проекта на 22.12.2023 / Interim project outcome on 22.12.2023
 
