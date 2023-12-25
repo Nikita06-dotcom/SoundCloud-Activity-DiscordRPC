@@ -1,8 +1,10 @@
 ![Итог проекта на момент 22.12.2023](https://cdn.discordapp.com/attachments/888178520981909555/1187869237293883392/1.png)
 ###### Промежуточный итог проекта на 22.12.2023 / Interim project outcome on 22.12.2023
 
-> Проект находится в ранней стадии разработки и требует проведения множества оптимизаций. Желательно полностью переписать код, поскольку в его текущем состоянии он был написан неэффективно и в спешке, чтобы лишь обеспечить его функциональность.
-> The project is in its early development stages and requires numerous optimizations. It is advisable to completely rewrite the code since, in its current state, it was written inefficiently and hastily just to ensure its functionality.
+<blockquote>
+<p class="has-line-data" data-line-start="0" data-line-end="2">Проект находится в ранней стадии разработки и требует проведения множества оптимизаций. Желательно полностью переписать код, поскольку в его текущем состоянии он был написан неэффективно и в спешке, чтобы лишь обеспечить его функциональность.<br>
+The project is in its early development stages and requires numerous optimizations. It is advisable to completely rewrite the code since, in its current state, it was written inefficiently and hastily just to ensure its functionality.</p>
+</blockquote>
 
 # Название проекта: Отображение музыкальной активности SoundCloud в Discord с использованием Discord RPC
 
