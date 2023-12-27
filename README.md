@@ -4,8 +4,10 @@
 ###### Промежуточный итог проекта на 22.12.2023 / Interim project outcome on 22.12.2023
 
 <blockquote>
-<p class="has-line-data" data-line-start="0" data-line-end="9">Обновление бета-версии | 2.0.0:<br>
-— Полностью переписан код для обоих приложений (расширение и сервер).<br>
+<p class="has-line-data" data-line-start="0" data-line-end="1">Обновление бета-версии | 2.0.0:</p>
+</blockquote>
+<blockquote>
+<p class="has-line-data" data-line-start="2" data-line-end="10">— Полностью переписан код для обоих приложений (расширение и сервер).<br>
 — Логика и поиск сообщений в расширении переписаны.<br>
 — Повышена оптимизация работы приложений.<br>
 ㅤ<br>
@@ -15,7 +17,7 @@
 — Запоминается время только для трека, который активен на текущей вкладке. Другие вкладки имеют свои счетчики, которые сохраняют время до паузы.</p>
 </blockquote>
 <blockquote>
-<p class="has-line-data" data-line-start="10" data-line-end="20">Beta Version Update | 2.0.0:<br>
+<p class="has-line-data" data-line-start="11" data-line-end="21">Beta Version Update | 2.0.0:<br>
 ㅤ<br>
 — The code for both the extension and server has been completely rewritten.<br>
 — The logic and message search in the extension have been rewritten.<br>
