@@ -14,6 +14,7 @@
 — Время проигрывания определенного трека на вкладке теперь сохраняется. При паузе счетчик времени не сбрасывается, а продолжает общий подсчёт игры данного трека.<br>
 — Запоминается время только для трека, который активен на текущей вкладке. Другие вкладки имеют свои счетчики, которые сохраняют время до паузы.</p>
 </blockquote>
+<hr>
 <blockquote>
 <p class="has-line-data" data-line-start="10" data-line-end="20">Beta Version Update | 2.0.0:<br>
 ㅤ<br>
@@ -26,7 +27,7 @@ New features:<br>
 — The playback time of a specific track on a tab is now saved. When paused, the time counter is not reset but continues counting for the active track on the current tab. Only the time for the track active on the current tab is remembered. Other tabs have their own counters that save the time until the pause.<br>
 28.12.23</p>
 </blockquote>
----
+
 <blockquote>
 <p class="has-line-data" data-line-start="0" data-line-end="4">Проект находится в ранней стадии разработки и требует проведения множества оптимизаций. Желательно полностью переписать код, поскольку в его текущем состоянии он был написан неэффективно и в спешке, чтобы лишь обеспечить его функциональность.<br>
 ㅤ<br>
