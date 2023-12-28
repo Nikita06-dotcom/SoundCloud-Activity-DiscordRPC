@@ -3,21 +3,18 @@
 ![Итог проекта на момент 22.12.2023](https://cdn.discordapp.com/attachments/888178520981909555/1187869237293883392/1.png)
 ###### Промежуточный итог проекта на 22.12.2023 (BetaVersion1.0.0) / Interim project outcome on 22.12.2023 (BetaVersion1.0.0)
 
+<h5 class="code-line" data-line-start=0 data-line-end=1 ><a id="___200_0"></a>Обновление бета-версии | 2.0.0</h5>
+<p class="has-line-data" data-line-start="1" data-line-end="2">Beta Version Update | 2.0.0:</p>
 <blockquote>
-<p class="has-line-data" data-line-start="0" data-line-end="10">Обновление бета-версии | 2.0.0:<br>
-ㅤ<br>
-— Полностью переписан код для обоих приложений (расширение и сервер).<br>
+<p class="has-line-data" data-line-start="2" data-line-end="19">— Полностью переписан код для обоих приложений (расширение и сервер).<br>
 — Логика и поиск сообщений в расширении переписаны.<br>
 — Повышена оптимизация работы приложений.<br>
 ㅤ<br>
 Новые функции:<br>
 — Теперь сервер имеет возможность определить, из какой вкладки проигрывается музыка. Каждая вкладка теперь имеет свой уникальный идентификатор.<br>
 — Время проигрывания определенного трека на вкладке теперь сохраняется. При паузе счетчик времени не сбрасывается, а продолжает общий подсчёт игры данного трека.<br>
-— Запоминается время только для трека, который активен на текущей вкладке. Другие вкладки имеют свои счетчики, которые сохраняют время до паузы.</p>
-</blockquote>
-<blockquote>
-<p class="has-line-data" data-line-start="11" data-line-end="21">Beta Version Update | 2.0.0:<br>
-ㅤ<br>
+— Запоминается время только для трека, который активен на текущей вкладке. Другие вкладки имеют свои счетчики, которые сохраняют время до паузы.<br>
+ㅤㅤ———<br>
 — The code for both the extension and server has been completely rewritten.<br>
 — The logic and message search in the extension have been rewritten.<br>
 — Optimization of the application’s performance has been improved.<br>
