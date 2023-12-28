@@ -91,7 +91,7 @@ def DiscordInfoDisplay(id):
                    large_image = inf['ImageURL'],
                    large_text=f"{inf['Artist']} — {inf['TrackName']}")
     else:
-        RPC.update(state = in'Artist'] + 'ㅤ',
+        RPC.update(state = inf['Artist'] + 'ㅤ',
                    buttons = button,
                    details= inf['TrackName'] + 'ㅤ',
                    large_image = inf['ImageURL'],
